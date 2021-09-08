@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Souryadipstan
 - 👀 I’m interested in Data Analysis,AI
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 twitter - @@DasSouryadip
 
 <!---
 Souryadipstan/Souryadipstan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
