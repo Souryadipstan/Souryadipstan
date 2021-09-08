@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souryadipstan
 - 👀 I’m interested in Data Analysis,AI
-- 🌱 I’m currently learning Data Science
+- 🌱 I'm currently pursuing Masters in Data Science
 - 📫 twitter - @@DasSouryadip
 
 <!---
