@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Souryadipstan
-- 👀 I’m interested in Data Analysis, Machine Learning, AI , Cloud.
+- 👀 I’m interested in Data Analysis, Machine Learning, AI, Cloud.
 - 🌱 I'm currently pursuing Masters in Data Science.
 - 📕 Reading, watching movies, exercising are some of my hobbies.
 - 🤨 Always curious to know new stuffs.
